@@ -2,4 +2,5 @@
 small game made for my eportfolio
 
 # CONTROLS
-LEFT/RIGHT arrow keys - move left/right\nUP arrow key - shoot bullet
+LEFT/RIGHT arrow keys - move left/right  
+UP arrow key - shoot bullet
